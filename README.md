@@ -72,7 +72,7 @@
 
 
 ---
-##  2. Exploratory data analysis
+##  2. EXPLORATORY DATA ANALYSIS
 
 ###  2-1. Problem Recognition
 * Rise of apple price <br/>
@@ -309,7 +309,7 @@
 
 <br> <br/>
 
-## 3. Solution
+## 3. SOLUTION
 
 ### "Smart Farm"
 - 앞서 분석한 **농업 노동력 감소 및 재배면적 감소**에 대한 해결책들 중 하나로 **스마트팜**을 제시한다.<br/>
