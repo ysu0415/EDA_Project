@@ -36,7 +36,8 @@
 ---  
 
 
-## 1. OVERVIEW
+##  1. OVERVIEW
+---
 ### 1-1. Project Overview
   
 * 파이썬 모듈 기반 정보 수집, 시계열 예측, DB 관리 및 시각화
@@ -73,6 +74,7 @@
 
 ---
 ##  2. EXPLORATORY DATA ANALYSIS
+---
 
 ###  2-1. Problem Recognition
 * Rise of apple price <br/>
@@ -309,7 +311,9 @@
 
 <br> <br/>
 
-## 3. SOLUTION
+---
+##  3. SOLUTION
+---
 
 ### "Smart Farm"
 - 앞서 분석한 **농업 노동력 감소 및 재배면적 감소**에 대한 해결책들 중 하나로 **스마트팜**을 제시한다.<br/>
